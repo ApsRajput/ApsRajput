@@ -9,8 +9,8 @@ I'm a Laravel developer who loves building clean and efficient web applications.
 - Git / GitHub
 
 ## 📈 GitHub Stats
-![APS's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![APS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApsRajput&show_icons=true)
 
 ## 📫 Contact Me
 - Email: your@email.com
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/yourname)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/aps-rajput)
