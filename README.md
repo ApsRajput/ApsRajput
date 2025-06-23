@@ -25,6 +25,13 @@ I've worked on multiple client and in-house projects across industries including
 - **DevOps:** Docker, GitHub Actions, CI/CD, DigitalOcean, Vercel
 - **Tools:** Git, Figma, Postman, VS Code, Firebase
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ---
 
 ## 📱 Projects I've Worked On
