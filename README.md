@@ -54,7 +54,7 @@ I've worked on multiple client and in-house projects across industries including
 
 - Full-stack SaaS apps
 - Custom CRM & ERP solutions
-- Android & iOS mobile apps (Flutter)
+- Android & iOS mobile apps (Native & Hybrid)
 - Dynamic websites & admin panels
 - eCommerce stores with custom features
 
