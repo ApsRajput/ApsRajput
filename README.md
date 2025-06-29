@@ -50,7 +50,7 @@ I've worked on multiple client and in-house projects across industries including
 
 ---
 
-## 📱 Projects I've Worked On
+## 📱 Development Projects I've Worked On
 
 - Full-stack SaaS apps
 - Custom CRM & ERP solutions
@@ -59,6 +59,12 @@ I've worked on multiple client and in-house projects across industries including
 - eCommerce stores with custom features
 
 ---
+
+## 📱 Marketing Projects I've Worked On
+
+- Ecommerce Lead generation.
+- Ecommerce & Travel marketing campaigns
+- SEO for Ecommerce & Travel
 
 ## 💼 Services I Offer
 
