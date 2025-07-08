@@ -20,10 +20,10 @@ I've worked on multiple client and in-house projects across industries including
 ## 🛠️ Tech Stack
 
 - **Languages:** PHP, JavaScript, TypeScript, Python, Dart, HTML/CSS
-- **Frameworks:** Laravel, Filament, Vue.js, React, Node.js, Flutter
+- **Frameworks:** Laravel, Filament, Vue.js, React, Node.js, Flutter, Django
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 - **DevOps:** Docker, GitHub Actions, CI/CD, DigitalOcean, Vercel
-- **Tools:** Git, Figma, Postman, VS Code, Firebase
+- **Tools:** Git, Figma, Postman, VS Code, Firebase, Notion, Trello
   
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
