@@ -5,7 +5,7 @@
 # 👋 Hi there, I'm APS Rajput
 
 🚀 Tech Cofounder at **[Webshot](https://webshot.in)**  
-💻 Passionate Full-Stack Developer | Mobile App Engineer | Tech Consultant
+💻 Passionate Full-Stack Developer | Startup Consultant | Tech Consultant
 
 ---
 
@@ -57,6 +57,7 @@ I've worked on multiple client and in-house projects across industries including
 - Android & iOS mobile apps (Native & Hybrid)
 - Dynamic websites & admin panels
 - eCommerce stores with custom features
+- Cutomised Operations CRM
 
 ---
 
