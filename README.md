@@ -4,7 +4,7 @@
 
 # 👋 Hi there, I'm APS Rajput
 
-🚀 Tech Cofounder at **[Webshot](https://webshot.in)**  
+🚀 Tech Founder at **[Webshot](https://webshot.in)**  
 💻 Passionate Full-Stack Developer | Startup Consultant | Tech Consultant
 
 ---
