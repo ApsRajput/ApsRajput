@@ -13,14 +13,14 @@
 
 I'm a technology enthusiast and Tech Founder at **Webshot**, where we turn ideas into scalable digital products. I have deep experience building modern web applications, AI Enabled solutions, mobile apps, and SaaS solutions using a wide range of technologies.
 
-I've worked on multiple client and in-house projects across industries including e-commerce, fintech, logistics, and more.
+I've worked on multiple client and in-house projects across industries including e-commerce, travel, FMCG, fintech, logistics, and more.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages:** PHP, JavaScript, TypeScript, Python, Dart, HTML/CSS
-- **Frameworks:** Laravel, Filament, Vue.js, React, Node.js, Flutter, Django
+- **Frameworks:** Laravel, Filament, React, Node.js, Flutter, Django
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 - **DevOps:** Docker, GitHub Actions, CI/CD, DigitalOcean, Vercel
 - **Tools:** Git, Figma, Postman, VS Code, Firebase, Notion, Trello
