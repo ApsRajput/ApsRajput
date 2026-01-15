@@ -4,14 +4,14 @@
 
 # 👋 Hi there, I'm APS Rajput
 
-🚀 Tech Founder at **[Webshot](https://webshot.in)**  
-💻 Passionate Full-Stack Developer | Startup Consultant | Tech Consultant
+🚀 Tech Founder at **[Webshot](https://webshotdigital.com)**  
+💻 Passionate Full-Stack Developer | Startup Consultant | Tech Consultant | AI Journalist
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a technology enthusiast and cofounder at **Webshot**, where we turn ideas into scalable digital products. I have deep experience building modern web applications, mobile apps, and SaaS solutions using a wide range of technologies.
+I'm a technology enthusiast and Tech Founder at **Webshot**, where we turn ideas into scalable digital products. I have deep experience building modern web applications, AI Enabled solutions, mobile apps, and SaaS solutions using a wide range of technologies.
 
 I've worked on multiple client and in-house projects across industries including e-commerce, fintech, logistics, and more.
 
