@@ -90,7 +90,7 @@ I've worked on multiple client and in-house projects across industries including
 
 - 🌐 [Webshot Website](https://webshot.in)
 - 💼 [LinkedIn](https://linkedin.com/in/aps-rajput)
-- 📩 Email: hello@webshot.in
+- 📩 Email: hello@webshot.in | hello@webshotdigital.com
 
 ---
 
