@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://webshot.in/wp-content/uploads/2025/06/1745691623586.webp" alt="Webshot Banner" width="100%" />
+  <img src="https://webshot.in/" alt="Webshot Banner" width="100%" />
 </p>
 
 # 👋 Hi there, I'm Ankit Pratap Singh
