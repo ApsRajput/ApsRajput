@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a technology enthusiast and Tech Founder at **Webshot**, where we turn ideas into scalable digital products. I have deep experience building modern web applications, AI Enabled solutions, mobile apps, and SaaS solutions using a wide range of technologies.
+I'm a tech enthusiast and Tech Founder at **Webshot**, where we turn ideas into scalable digital products. I have deep experience building modern web applications, AI Enabled solutions, mobile apps, and SaaS solutions using a wide range of technologies.
 
 I've worked on multiple client and in-house projects across industries including e-commerce, travel, FMCG, fintech, logistics, and more.
 
