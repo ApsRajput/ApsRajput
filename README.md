@@ -2,7 +2,7 @@
   <img src="https://webshot.in/" alt="Webshot Banner" width="100%" />
 </p>
 
-# 👋 Hi there, I'm Ankit Pratap Singh
+# 👋 Hi, I'm Ankit Pratap Singh
 
 🚀 Tech Founder at **[Webshot](https://webshotdigital.com)**  
 💻 Passionate Full-Stack Developer | Startup Consultant | Tech Consultant | AI Journalist
