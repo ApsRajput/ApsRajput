@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Ankit Pratap Singh 
 
 🚀 Tech Founder at **[Webshot](https://webshotdigital.com)**  
-💻 Passionate Full-Stack Developer | Startup Consultant | Tech Consultant | AI Journalist
+💻 Passionate Full-Stack Developer | Startup Consultant | Tech Consultant | AI Journalist | Athlete
 
 ---
 
